@@ -1,4 +1,13 @@
-# ci-cd-templates
+# GitDigital CI Templates
+Reusable GitHub Actions templates for all GitDigital repos.  
+Keeps CI/CD consistent across the entire org.
+
+## Includes
+- Python tests
+- Node tests
+- Docker builds
+- Linting
+  # ci-cd-templates
 ci-cd-templates Reusable GitHub Actions and GitLab pipeline templates.
 # CI/CD Templates
 
